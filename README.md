@@ -8,7 +8,7 @@ Grupo 1
     -Gonçalo Barbosa
 
    '''c
-    #include <studio.h>
+    # include <studio.h>
 
    int main()
    {
