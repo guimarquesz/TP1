@@ -7,7 +7,7 @@ Grupo 1
     -Dinis Ribeiro
     -Gonçalo Barbosa
 
-   '''c
+    ```c
     #include <studio.h>
 
    int main()
@@ -15,4 +15,4 @@ Grupo 1
     printf("Hello");
     return0;
    }
-   '''
+    ```
